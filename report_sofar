@@ -1,0 +1,10 @@
+requests is not getting the whole page. which is renedered by js
+so tried selenium, selenium also seem to give the same output
+
+needed selenium browser drivers, tried chrome, ended up with firefox.
+selenium with driver execute script with scroll down and wait to render and load into soup worked.
+
+and soup searching is not straightforward but not tough either
+
+Lastly, the scraping depends on loading of the page as the driver needs to scroll down, so it depends on the internet connection at the time. if it is a slow connection need to sleep more between scrolls.
+

@@ -1,0 +1,36 @@
+1638105523407	geckodriver	INFO	Listening on 127.0.0.1:45855
+1638105524428	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-headless" "-no-remote" "-profile" "/tmp/rust_mozprofileKoW6rB"
+*** You are running in headless mode.
+1638105526437	Marionette	INFO	Listening on port 37795
+1638105526543	Marionette	WARN	TLS certificate errors will be ignored for this session
+1638105571628	geckodriver	INFO	Listening on 127.0.0.1:34209
+1638105571633	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-headless" "-no-remote" "-profile" "/tmp/rust_mozprofileh8lkkY"
+*** You are running in headless mode.
+1638105573760	Marionette	INFO	Listening on port 45149
+1638105573843	Marionette	WARN	TLS certificate errors will be ignored for this session
+1638105599726	geckodriver	INFO	Listening on 127.0.0.1:35187
+1638105599733	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-headless" "-no-remote" "-profile" "/tmp/rust_mozprofile4lUjAR"
+*** You are running in headless mode.
+1638105601547	Marionette	INFO	Listening on port 33943
+1638105601639	Marionette	WARN	TLS certificate errors will be ignored for this session
+1638105631520	geckodriver	INFO	Listening on 127.0.0.1:56591
+1638105631526	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-headless" "-no-remote" "-profile" "/tmp/rust_mozprofiledDux6T"
+*** You are running in headless mode.
+1638105633528	Marionette	INFO	Listening on port 40821
+1638105633535	Marionette	WARN	TLS certificate errors will be ignored for this session
+1638105899806	geckodriver	INFO	Listening on 127.0.0.1:33475
+1638105899812	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-headless" "-no-remote" "-profile" "/tmp/rust_mozprofilerwKldh"
+*** You are running in headless mode.
+1638105901902	Marionette	INFO	Listening on port 42397
+1638105901919	Marionette	WARN	TLS certificate errors will be ignored for this session
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1638134652894	Marionette	INFO	Stopped listening on port 33943
+1638134652924	Marionette	INFO	Stopped listening on port 45149
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1638134652988	Marionette	INFO	Stopped listening on port 40821
+1638134652990	Marionette	INFO	Stopped listening on port 42397
+1638134652994	Marionette	INFO	Stopped listening on port 37795
